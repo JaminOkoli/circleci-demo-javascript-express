@@ -183,7 +183,7 @@ In this version, we enabled the `mern-cli` to clone not only this project but al
 ### Modifying Generators
 
 #### mern.json
-It contains a blueprints array. Each object in it is the config for a generator. A blueprint config contains the name, description, usage, and files array. An example blueprint config
+It contains a blueprints array. Each object in it is the config for a generator. A blueprint config contains the name, description, usage, and files array. An example blueprint config:
 ```
 {
   "name": "dumb-s",
